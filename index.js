@@ -1,0 +1,1 @@
+const owner = 'Ilya Zoura';
